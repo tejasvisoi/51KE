@@ -7,6 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="profile"
+        android:fontFamily="@font/productsans"
         android:textColor="#000"
         android:textStyle="bold"
         android:layout_centerInParent="true"

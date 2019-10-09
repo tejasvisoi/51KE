@@ -9,6 +9,7 @@
         android:text="51KE PAY"
         android:textColor="#000"
         android:textStyle="bold"
+        android:fontFamily="@font/productsans"
         android:layout_centerInParent="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 </RelativeLayout>
